@@ -1,0 +1,12 @@
+{
+    "name": "papply",
+    "description": "left and right partial application without context",
+    "version": "0.1.0",
+    "keywords": [],
+    "dependencies": {},
+    "development": {},
+    "license": "MIT",
+    "scripts": [
+        "index.js"
+    ]
+}

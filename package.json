@@ -1,0 +1,16 @@
+{
+    "name": "papply",
+    "description": "left and right partial application without context",
+    "version": "0.1.0",
+    "author": "Manuel Stofer <manuel@takimata.ch>",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "*",
+        "chai": "*",
+        "component": "*",
+        "mocha-phantomjs": "*"
+    },
+    "scripts": {
+        "test": "make test"
+    }
+}
