@@ -1,6 +1,6 @@
 # papply
 
-![Build status](https://api.travis-ci.org/manuelstofer/papply)
+![Build status](https://api.travis-ci.org/manuelstofer/papply.png)
 
 Left and right partial application without context
 
